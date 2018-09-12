@@ -10,7 +10,6 @@
         <module name="cloud-core" />
         <module name="cloud-eureka" />
         <module name="cloud-web" />
-        <module name="springcloud" />
       </profile>
     </annotationProcessing>
   </component>
